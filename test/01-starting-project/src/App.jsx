@@ -47,24 +47,10 @@ function App() {
             <TabButton onSelect={() => handleSelect('state')}>State</TabButton>
           </menu>
 
-          <div id='tab-content'>
-            <h3>{EXAMPLES[selectedTopic].title}</h3>
-            <p>{EXAMPLES[selectedTopic].description} </p>
-            <pre>
-              <code>
-
-              </code>
-            </pre>
-
-           
-       
-          </div>
+      
+         
 
 
-        </section>
-      </main>
-    </div>
-  );
-}
+
 
 export default App;
