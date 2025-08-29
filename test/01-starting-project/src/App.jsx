@@ -73,6 +73,7 @@ function App() {
             </TabButton>
           </menu>
 
+<<<<<<< HEAD
           {tabContent}
         </section>
 
@@ -93,6 +94,13 @@ function App() {
     </div>
   );
 }
+=======
+      
+         
+
+
+
+>>>>>>> 41e11e12b07be8d9afade202334d5683ffe07723
 
 export default App;
 
