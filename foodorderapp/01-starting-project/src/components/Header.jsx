@@ -7,7 +7,7 @@ function Header() {
             <img src={logoImg} alt="A restaurant" />
             <h1>React Food APP </h1>
         </div>
-        <nav><button>Cart (0)</button></nav>
+        <nav><button>Cart (1234)</button></nav>
     </header>
   )
 }
